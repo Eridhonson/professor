@@ -11,14 +11,12 @@
             "id": "a6e76585515274c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GitHub CLI/GitHub CLI.md",
-                "mode": "source",
-                "source": false
+                "file": "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp"
               },
-              "icon": "lucide-file",
-              "title": "GitHub CLI"
+              "icon": "lucide-image",
+              "title": "censo-populacaobrasileira"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub CLI/GitHub CLI.md",
+                "file": "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GitHub CLI"
+              "title": "Backlinks for censo-populacaobrasileira"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub CLI/GitHub CLI.md",
+                "file": "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GitHub CLI"
+              "title": "Outgoing links from censo-populacaobrasileira"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub CLI/GitHub CLI.md",
+                "file": "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GitHub CLI"
+              "title": "Outline of censo-populacaobrasileira"
             }
           }
         ]
@@ -171,6 +169,9 @@
   },
   "active": "a6e76585515274c0",
   "lastOpenFiles": [
+    "PowerPoint/Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.md",
+    "PowerPoint/Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.pdf",
+    "GitHub CLI/GitHub CLI.md",
     "Word/Tabulação/PROPOSTA DE CONTRATO.docx",
     "Word/Word - Trabalhar com tabulações -  Formatar parágrafos.pdf",
     "Word/Word - Trabalhar com tabulações.png",
@@ -181,9 +182,7 @@
     "Word/ProjetoInclusaoDigital-WordBasico.pdf",
     "Word/Placa-CIPA.docx",
     "Word/ORGANOGRAMA.docx",
-    "Word/Objetivos de Projeto Inclusão Digital.docx",
     "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
-    "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/População brasileira-tabulação.docx",
     "Word/Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
     "Word/Word/Word - Trabalhar com tabulações.png",
     "Windows/AULA1.2/teclado_ABNT2.png",
@@ -192,8 +191,6 @@
     "Windows/AULA1.2/Celular.webp",
     "Windows/Windows/AULA1.2/teclado_ABNT2.png",
     "Windows/Windows/AULA1.2/notebook.jpg",
-    "PowerPoint/Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.md",
-    "GitHub CLI/GitHub CLI.md",
     "Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.md",
     "README.md"
   ]
