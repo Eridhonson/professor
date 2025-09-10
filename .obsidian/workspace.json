@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "5082cb4fb501f19a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf01eb06f1d2752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e76585515274c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub CLI/GitHub CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub CLI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a9582a18d64eeed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7a3f65e06a94b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1c695613c8f4c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d918a9ae72b23ede",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab89e9207edfbc05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c761def2f569146",
+    "type": "split",
+    "children": [
+      {
+        "id": "b95c945d62943271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009b12a62782db1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub CLI/GitHub CLI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GitHub CLI"
+            }
+          },
+          {
+            "id": "bdfb840cfada8e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GitHub CLI/GitHub CLI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GitHub CLI"
+            }
+          },
+          {
+            "id": "e795b9c34718cbc7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86746f96253901a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GitHub CLI/GitHub CLI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GitHub CLI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a6e76585515274c0",
+  "lastOpenFiles": [
+    "Word/Tabulação/PROPOSTA DE CONTRATO.docx",
+    "Word/Word - Trabalhar com tabulações -  Formatar parágrafos.pdf",
+    "Word/Word - Trabalhar com tabulações.png",
+    "Word/Tabulacao.docx",
+    "Word/Sumário, Cabeçalho, Rodapé e Numeração/Sumário, Cabeçalho, Rodapé e Numeração.docx",
+    "Word/Sumário, Cabeçalho, Rodapé e Numeração",
+    "Word/Sumário.pptx",
+    "Word/ProjetoInclusaoDigital-WordBasico.pdf",
+    "Word/Placa-CIPA.docx",
+    "Word/ORGANOGRAMA.docx",
+    "Word/Objetivos de Projeto Inclusão Digital.docx",
+    "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
+    "Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/População brasileira-tabulação.docx",
+    "Word/Word/Layout da Página, Formas, SmartArts, Gráficos e Impressão/censo-populacaobrasileira.webp",
+    "Word/Word/Word - Trabalhar com tabulações.png",
+    "Windows/AULA1.2/teclado_ABNT2.png",
+    "Windows/AULA1.2/notebook.jpg",
+    "Windows/AULA1.2/gabinete.jpg",
+    "Windows/AULA1.2/Celular.webp",
+    "Windows/Windows/AULA1.2/teclado_ABNT2.png",
+    "Windows/Windows/AULA1.2/notebook.jpg",
+    "PowerPoint/Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.md",
+    "GitHub CLI/GitHub CLI.md",
+    "Conceitos introdutório e exercícios/PowerPoint_Conceitos_introdutorios_e_exercicios.md",
+    "README.md"
+  ]
+}
