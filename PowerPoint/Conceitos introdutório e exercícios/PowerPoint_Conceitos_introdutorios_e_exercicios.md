@@ -100,3 +100,29 @@ Insira um rodapé no slide com:
 - Nome do aluno
 - Nome da empresa
 - Ano do relatório
+
+## Exercício 2 - 10 Dicas para uma Boa Apresentação
+*"Você possui um documento **Word** e precisa criar uma apresentação a partir desse material."*
+
+**Fonte:** 10-Dicas-para-uma-Boa-Apresentação.pdf
+
+##### Primeiro slide
+**Título:** PowerPoint
+*Pesquise no Google o **logotipo** da Ponto Com Informática*
+Insira a imagem:
+![[Pasted image 20250912143459.png]]
+**Aluno:** Nome do aluno
+##### Segundo slide
+**Título:** 10 Dicas para uma Boa Apresentação
+Insira rodapé com **data** e **nome da escola**
+##### Terceiro slide - 13º slide
+- Peça para que eles copiem o título e o conteúdo do documento Word para o PowerPoint, mantendo **1 título e 1 conteúdo por slide** da apresentação.
+- Em cada slide deve estar o número do tópico: de 1 até 10. Esses números devem ser adicionados dentro de **formas**;
+- Todas as formas devem ser **animadas**.
+##### Exemplos:
+![[Pasted image 20250912182241.png]]
+___
+![[Pasted image 20250912182430.png]]
+
+##### Conclusão da aula
+Insira **transições de entrada e saída** em todos os slides.
