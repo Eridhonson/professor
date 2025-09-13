@@ -36,7 +36,7 @@ Mostrar de forma visual produtos, marcas, serviços.
 
 # Exercícios
 
-## Exercício 1 - ==Mercadinho da Sua Esquina==
+## Exercício 1 - Mercadinho da Sua Esquina
 
 ### Apresentação de resultados para os Gerentes.
 *"Você possui uma planilha em Excel contendo o resultado de vendas do último trimestre e precisa mostrar esses resultados para seus Gerentes na reunião de resultados."*
